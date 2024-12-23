@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Sandagomi04
-  
-- 🌱 I’m currently learning Bsc.IT in The Open University Sri Lanka
-  
+
 
 
 
